@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>test2</title>
+    <link href="/2023/08/test2/"/>
+    <url>/2023/08/test2/</url>
+    
+    <content type="html"><![CDATA[<p>test222</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>test1</title>
+    <link href="/2023/08/test1/"/>
+    <url>/2023/08/test1/</url>
+    
+    <content type="html"><![CDATA[<hr><p>title: 文章标题<br>tags: [tea, test]<br>index_img: &#x2F;img&#x2F;doge.jpg</p><hr><p>test123123123</p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>茶家小婷</title>
+    <link href="/2023/08/hello-world/"/>
+    <url>/2023/08/hello-world/</url>
+    
+    <content type="html"><![CDATA[<h2 id="茶家小婷"><a href="#茶家小婷" class="headerlink" title="茶家小婷"></a>茶家小婷</h2><h3 id="测试"><a href="#测试" class="headerlink" title="测试"></a>测试</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">测试B站视频播放<br></code></pre></td></tr></table></figure><iframe height=400 width=360  src="//player.bilibili.com/player.html?aid=782969758&bvid=BV1H24y1F7EV&cid=1108042349&page=1"  scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="false"> </iframe>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
