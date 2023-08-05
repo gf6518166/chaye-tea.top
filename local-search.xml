@@ -4,26 +4,19 @@
   
   
   <entry>
-    <title>test2</title>
-    <link href="/2023/08/test2/"/>
-    <url>/2023/08/test2/</url>
+    <title>测试1</title>
+    <link href="/2023/08/Untitled/"/>
+    <url>/2023/08/Untitled/</url>
     
-    <content type="html"><![CDATA[<p>test222</p>]]></content>
-    
-    
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>test1</title>
-    <link href="/2023/08/test1/"/>
-    <url>/2023/08/test1/</url>
-    
-    <content type="html"><![CDATA[<hr><p>title: 文章标题<br>tags: [tea, test]<br>index_img: &#x2F;img&#x2F;doge.jpg</p><hr><p>test123123123</p>]]></content>
+    <content type="html"><![CDATA[<hr><h2 id="title-文章标题tags-Hexo-Fluid-index-img-img-doge-jpgbanner-img-img-doge-jpg"><a href="#title-文章标题tags-Hexo-Fluid-index-img-img-doge-jpgbanner-img-img-doge-jpg" class="headerlink" title="title: 文章标题tags: [Hexo, Fluid]index_img: &#x2F;img&#x2F;doge.jpgbanner_img: &#x2F;img&#x2F;doge.jpg"></a>title: 文章标题<br>tags: [Hexo, Fluid]<br>index_img: &#x2F;img&#x2F;doge.jpg<br>banner_img: &#x2F;img&#x2F;doge.jpg</h2><p>以下是文章内容<br><img src="/img/doge.jpg"></p>]]></content>
     
     
+    
+    <tags>
+      
+      <tag>tea</tag>
+      
+    </tags>
     
   </entry>
   
