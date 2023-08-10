@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://gf6518166.github.io/2023/08/%E4%BA%A7%E5%93%81/</loc>
+    
+    <lastmod>2023-08-10</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>http://gf6518166.github.io/2023/08/test1/</loc>
     
-    <lastmod>2023-08-05</lastmod>
+    <lastmod>2023-08-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>http://gf6518166.github.io/2023/08/Untitled/</loc>
+    <loc>http://gf6518166.github.io/2023/08/tea/</loc>
     
-    <lastmod>2023-08-05</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
-    <loc>http://gf6518166.github.io/2023/08/hello-world/</loc>
-    
-    <lastmod>2023-08-05</lastmod>
+    <lastmod>2023-08-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -31,7 +31,7 @@
   <url>
     <loc>http://gf6518166.github.io/about/index.html</loc>
     
-    <lastmod>2023-08-05</lastmod>
+    <lastmod>2023-08-10</lastmod>
     
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -40,18 +40,11 @@
 
   <url>
     <loc>http://gf6518166.github.io/</loc>
-    <lastmod>2023-08-05</lastmod>
+    <lastmod>2023-08-10</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
-  
-  <url>
-    <loc>http://gf6518166.github.io/tags/tea/</loc>
-    <lastmod>2023-08-05</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.2</priority>
-  </url>
   
 
   
